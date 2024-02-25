@@ -1,0 +1,5 @@
+bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
+bilibili.com##.desktop-download-tip
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:last-child > a.download-entry.download-client-trigger:first-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > div.vip-wrap:nth-child(2) > li.v-popover-wrap:first-child > a.right-entry__outside.right-entry--vip:first-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.v-popover-wrap.header-avatar-wrap:first-child > div.v-popover.is-bottom:last-child > div.v-popover-content.avatar-popover > div.avatar-panel-popover > div.vip-entry-containter:nth-child(6)
